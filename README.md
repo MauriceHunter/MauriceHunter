@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MauriceHunter
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on ...
 - 📫 The best way to reach me is a DM on Twitter (@mauricehunterjr)
 
 <!---
