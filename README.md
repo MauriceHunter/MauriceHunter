@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MauriceHunter
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Swift
-- 📫 The best way to reach me is a DM on Twitter (@mauricehunterjr)
+- 📫 The best way to reach me is a DM on Twitter (@mauricehunterjr) or LinkedIn
 
 <!---
 MauriceHunter/MauriceHunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
